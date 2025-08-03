@@ -5,7 +5,7 @@ This repository includes daily exercises, mini-projects, and notes covering:
 
 - 🐍 Python (basics to intermediate)
 - 📊 Excel (data cleaning and analysis)
-- 🛢 MySQL (database queries and joins)
+- 🛢 MySQL (basics to advanced)
 - 📈 Power BI (data visualization and reporting)
 - 🐼 Pandas (data manipulation)
 - 📉 Matplotlib & Seaborn (data visualization)
